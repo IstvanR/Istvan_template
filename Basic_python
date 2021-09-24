@@ -1,0 +1,5 @@
+print("Hello world")
+print("This is how I would likt to test the pages site")
+if stat_pages = "cool"
+  print("The pages is really cool, we like to use it")
+stat_pages = input("Is the pages cool? ")
